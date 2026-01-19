@@ -17,9 +17,16 @@ public class EmpDictionary
 
         int total = 0;
 
-        foreach(KeyValuePair<int,int> i in dict)
+        int m = int.Parse(Console.ReadLine());
+
+        for(int i = 0; i < m; i++)
         {
-            total+=i.Value;
+            int empid = int.Parse(Console.ReadLine());
+
+            if (dict.ContainsKey(empid))
+            {
+                total+=dict[empid];
+            }
         }
 
         Console.WriteLine(total);
