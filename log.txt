@@ -1,0 +1,8 @@
+INFO Application started
+INFO User logged in: user123
+WARN Disk space running low
+ERROR Failed to connect to database
+INFO Scheduled job executed
+ERROR Null pointer exception in UserService
+WARN High memory usage detected
+ERROR Unable to write to output file

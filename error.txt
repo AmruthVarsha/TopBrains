@@ -1,0 +1,3 @@
+ERROR Failed to connect to database
+ERROR Null pointer exception in UserService
+ERROR Unable to write to output file
