@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yu3GQesHVO0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amruth varsha\\Downloads\\SortedDictionary_Practice_Projects_1\\09_EcommerceOrderPrioritySystem\\09_EcommerceOrderPrioritySystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amruth varsha\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Amruth varsha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Amruth varsha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Amruth varsha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
