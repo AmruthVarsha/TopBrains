@@ -1,0 +1,10 @@
+5000 - Deposited to the account - 101
+2000 - Withdrawn from Account - 102
+[03-02-2026 12:42:19] 101 - 5000 Deposited to the account.
+[03-02-2026 12:42:19] 102 - 2000 Withdrawn from account.
+[03-02-2026 12:50:36] 101 - 5000 Deposited to the account.
+[03-02-2026 12:50:36] 102 - 2000 Withdrawn from account.
+[03-02-2026 12:50:36] 201 - 30000 Withdrawn from account.
+[03-02-2026 12:57:00] 101 - 5000 Deposited to the account.
+[03-02-2026 12:57:00] 102 - 2000 Withdrawn from account.
+[03-02-2026 12:57:00] 201 - 30000 Withdrawn from account.
