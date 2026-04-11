@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="index.css">
+    <title>Assessment</title>
+</head>
+<body>
+    <div class="page">
+        <div class="heading">
+            <h1>Index - Simple Calculator</h1>
+            <h4>Trainer Name: Mohd Salman</h4>
+        </div>
+        <form>
+            <div class="mb-2">
+                <label for="num1" class="form-label">First Input (Integer)</label>
+                <input type="number" id="num1" name="num1" class="form-control"/>
+            </div>
+            <div class="mb-2">
+                <label for="num2" class="form-label">Second Input (Integer)</label>
+                <input type="number" id="num2" name="num2" class="form-control"/>
+            </div>
+            <div class="row1">
+                <button type="button" onclick="Add()" id="button1">Add</button>
+                <button type="button" onclick="Subtract()" id="button2">Substract</button>
+            </div>
+            <div class="row2">
+                <button type="button" onclick="Multiply()" id="button3">Mutiply</button>
+                <button type="button" onclick="Divide()" id="button4">Divide</button>
+            </div>
+        </form>
+        <div class="result-div">
+            <h3>Calculated Result</h3>
+            <h3 id="result"></h3>
+        </div>
+    </div>
+    <script src="Example1.js"></script>
+</body>
+</html>
